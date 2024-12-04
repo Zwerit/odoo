@@ -49,3 +49,8 @@ package.json
 /man/
 /share/
 /src/
+
+# zwerit AddOns
+/zwerit-addons/
+/source/
+/odoo_env/
